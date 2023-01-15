@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivingShop", "DivingShop\DivingShop.csproj", "{8F4BD32F-E964-4FA6-9643-DF12137990DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F4BD32F-E964-4FA6-9643-DF12137990DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F4BD32F-E964-4FA6-9643-DF12137990DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F4BD32F-E964-4FA6-9643-DF12137990DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F4BD32F-E964-4FA6-9643-DF12137990DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
